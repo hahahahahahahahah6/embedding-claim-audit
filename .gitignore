@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+embedding_claim_audit.egg-info/
+dist/
+build/
+.venv/
